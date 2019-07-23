@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: changePassword.php
+Disallow: createAccount.php
+Disallow: changePassword.php
+Disallow: modifyMyPersonalData.php
+Disallow: personalArea.php
+Disallow: login.php
+Host: w91608oj.beget.tech
+Sitemap: w91608oj.beget.tech/sitemap.php
