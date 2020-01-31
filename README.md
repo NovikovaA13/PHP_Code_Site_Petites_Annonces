@@ -1,1 +1,1 @@
-PHP код доски объявлений
+PHP Code d'un site de petites annonces
